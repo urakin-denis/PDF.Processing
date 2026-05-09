@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PDF.Processing.Service.Api/PDF.Processing.Service.Api.csproj" />
+    <Project Path="src/PDF.Processing.Service.Application/PDF.Processing.Service.Application.csproj" />
+    <Project Path="src/PDF.Processing.Service.Contracts/PDF.Processing.Service.Contracts.csproj" />
+    <Project Path="src/PDF.Processing.Service.Domain/PDF.Processing.Service.Domain.csproj" />
+    <Project Path="src/PDF.Processing.Service.Infrastructure/PDF.Processing.Service.Infrastructure.csproj" />
+    <Project Path="src/PDF.Processing.Service.Worker/PDF.Processing.Service.Worker.csproj" />
+  </Folder>
+</Solution>

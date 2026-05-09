@@ -1,0 +1,6 @@
+@PDF.Processing.Service.Api_HostAddress = http://localhost:5218
+
+GET {{PDF.Processing.Service.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
